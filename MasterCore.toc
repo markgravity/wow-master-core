@@ -1,0 +1,8 @@
+## Interface: 11305
+## Title: MasterCore
+## Author: markg
+## Notes: Core lib for master addons
+## Dependencies:
+Source\Class.lua
+Source\UI.lua
+Source\FrameController.lua
